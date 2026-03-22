@@ -21,6 +21,17 @@ Analyze customer churn behavior and identify key factors affecting retention usi
 - Electronic payment users have higher churn
 - Pricing impacts customer retention
 
+## 📷 Project Screenshots
+
+### Excel Dashboard
+![Excel Dashboard](Screenshots/Harshith's_churn.png)
+
+### Raw data Output
+![Raw data Output](Rawdata_customer.png)
+
+### Python Chart
+![Python Chart](Screenshots/Harshith_pythonchurn.png)
+
 ## 🧠 Conclusion
 Customer churn is mainly driven by short-term contracts and early-stage customers. Improving onboarding and encouraging long-term plans can improve retention.
 
