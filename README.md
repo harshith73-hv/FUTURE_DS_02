@@ -23,14 +23,23 @@ Analyze customer churn behavior and identify key factors affecting retention usi
 
 ## 📷 Project Screenshots
 
-### Harshith's_churn 
-![Harshith's_churn Output](Screenshots/Harshith's_churn.png)
+### Excel Dashboard
+![Excel Dashboard](Harshith_excelchurn.png)
 
-### Raw data Output
-![Raw data Output](Rawdata_customer.png)
+### Python Output
+![Python Output](Harshith_pythonchurn.png)
 
-### Harshith_pythonchurn Output
-![Harshith_pythonchurn Output](Screenshots/Harshith_pythonchurn.png)
+### Key Insights
+![Key Insights](Keyinsights.png)
+
+### Tenure Analysis
+![Tenure](Tenure.png)
+
+### Payment Method
+![Payment](Paymentmethod.png)
+
+### Revenue Analysis
+![Revenue](Revenue.png)
 
 ## 🧠 Conclusion
 Customer churn is mainly driven by short-term contracts and early-stage customers. Improving onboarding and encouraging long-term plans can improve retention.
