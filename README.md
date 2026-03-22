@@ -23,7 +23,7 @@ Analyze customer churn behavior and identify key factors affecting retention usi
 
 ## 📷 Project Screenshots
 
-### Harshith's_churn Output
+### Harshith's_churn 
 ![Harshith's_churn Output](Screenshots/Harshith's_churn.png)
 
 ### Raw data Output
